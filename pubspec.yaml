@@ -64,6 +64,7 @@ flutter:
     - assets/
     - assets/data/
     - assets/markdown/
+    - assets/images/singleton/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

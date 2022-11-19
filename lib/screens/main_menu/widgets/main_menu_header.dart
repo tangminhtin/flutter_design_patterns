@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_design_patterns/constants.dart';
-import 'package:flutter_design_patterns/widgets/heartbeat_animation.dart';
+import 'package:flutter_design_patterns/widgets/platform_specific/heartbeat_animation.dart';
 
 class MainMenuHeader extends StatelessWidget {
   const MainMenuHeader({super.key});

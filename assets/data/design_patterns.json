@@ -5,10 +5,10 @@
     "color": "0xFFF3D250",
     "patterns": [
       {
-        "id": "introduction",
-        "title": "Introduction",
-        "description": "Laborum qui ea velit sint officia culpa aute ad sint fugiat excepteur ex pariatur consectetur.",
-        "route": "/introduction"
+        "id": "singleton",
+        "title": "Singleton",
+        "description": "Ensure a class only has one instance, and provide a global point of access to it.",
+        "route": "/singleton"
       }
     ]
   },
